@@ -1,0 +1,116 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: Aus meines Herzens Grunde
+!!!OTL@EN:  From the depths of my heart
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 001
+!!!SCT: BWV 269
+!!!ONB1: Text by Georg Niege; 16th Century secular melody, first appears 
+!!!ONB2: in sacred use in Neu Catechismus-Gesangbüchlein, Hamburg, 1598. 
+!!!YEC: Copyright 2001 by Craig Stuart Sapp
+!!!license: GNU General Public License (http://www.gnu.org/copyleft/gpl.html)
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+!!!ONB: Harmony and Root analysis done manually by Craig Sapp
+!! Beat 2 of measure 1 chord could also be IVb (with root on C)
+**pos
+!
+*
+*
+*
+*
+*
+*
+*
+*
+*
+1
+1
+2
+3
+4
+4
+5
+6
+7
+7
+8
+9
+10
+10
+11
+11
+12
+12
+13
+14
+15
+15
+16
+17
+18
+18
+19
+19
+19
+*
+20
+20
+21
+22
+23
+23
+24
+24
+25
+!!linebreak: 2
+25
+26
+26
+26
+26
+27
+28
+29
+29
+30
+30
+31
+31
+32
+33
+34
+34
+35
+35
+36
+36
+37
+38
+39
+39
+40
+41
+42
+42
+43
+44
+45
+45
+46
+46
+46
+46
+47
+48
+48
+48
+49
+50
+51
+51
+52
+52
+52
+*-
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

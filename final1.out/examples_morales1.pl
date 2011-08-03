@@ -1,0 +1,1 @@
+example_set(position1,[note(1,1,62),note(2,1,69),note(1,2,65),note(2,2,69),note(1,3,64),note(2,3,67),note(1,4,62),note(2,4,69),note(1,5,67),note(2,5,71),note(1,6,65),note(2,6,72),note(1,7,69),note(2,7,72),note(1,8,67),note(2,8,71),note(1,9,65),note(2,9,74),note(1,10,64),note(2,10,73),note(1,11,62),note(2,11,74)]).

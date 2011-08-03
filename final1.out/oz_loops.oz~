@@ -1,0 +1,9 @@
+for POSITION in 1..NP do
+dis 
+ case {OS.rand} mod 2
+of 0 then{PN_17812 POSITION _ _ _ _ _}
+[] 1 then {PN_5647 POSITION _ _ _ _ _}
+end 
+[] skip
+end
+end
